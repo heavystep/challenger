@@ -1,13 +1,13 @@
 # @heavystep/challenger
 
-# TL;DR
+## ❤️‍🔥 TL;DR
 
 | [![RQ-z5f2nBsc](http://img.youtube.com/vi/RQ-z5f2nBsc/0.jpg)](https://youtu.be/RQ-z5f2nBsc) |
 |---|
 
-[✨ Notion에서 스토리 감상](https://heavystep.notion.site/ai-challenge-qa)
+[✨ Notion에서 스토리 감상 (꼭 읽으세용!!)](https://heavystep.notion.site/ai-challenge-qa)
 
-# 직접 굴려보기
+## 🚀 직접 굴려보기
 ```shell
 git clone https://github.com/heavystep/challenger
 cd challenger
@@ -16,7 +16,7 @@ yarn run init
 yarn run dev
 ```
 
-# 상세
+## 💠 상세
 
 - 모델: `gemini-2.5-flash`
 - 프롬프트
