@@ -3,7 +3,7 @@
 | [![RQ-z5f2nBsc](http://img.youtube.com/vi/RQ-z5f2nBsc/0.jpg)](https://youtu.be/RQ-z5f2nBsc) |
 |---|
 
-[✨ Notion에서 스토리 감상](https://rokdaehwa.notion.site/AI-QA-25766ee60abf8002bd36db693300108f)
+[✨ Notion에서 스토리 감상](https://heavystep.notion.site/ai-challenge-qa)
 
 - 모델: `gemini-2.5-flash`
 - 프롬프트
